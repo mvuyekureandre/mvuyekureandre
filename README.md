@@ -2,7 +2,7 @@
 
 # Hey there 👋, I'm Andre Mvuyekure
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=I+Build+%26+Ship+Websites+Fast;AI-Augmented+Development+Workflow;From+Idea+to+Live+Product" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Freelance+Web+%26+Python+Developer;I+build+and+deploy+real+business+systems;E-commerce+%2C+automation+%2C+and+startup+solutions;From+idea+to+live+deployment+fast" />
 
 </div>
 
@@ -10,13 +10,15 @@
 
 ![What I Do](https://img.shields.io/badge/What_I_Do-0A66C2?style=for-the-badge)
 
-I help small businesses go from **no online presence** or an outdated one, to a fast, modern, working website — live in days, not months.
+I help individuals, startups, and small businesses turn ideas into working digital systems.
 
-I handle everything: design, development, deployment, and ongoing maintenance — so you don't need to manage multiple people or platforms.
+I build fast, clean, and functional websites, e-commerce platforms, and automation tools that help businesses operate online and grow faster.
+
+**From idea → design → development → deployment → support.**
 
 ---
 
-![Toolkit](https://img.shields.io/badge/My_Toolkit-25D366?style=for-the-badge)
+![Workflow](https://img.shields.io/badge/My_Workflow_%26_Tools-25D366?style=for-the-badge)
 
 <table>
 <tr>
@@ -24,57 +26,82 @@ I handle everything: design, development, deployment, and ongoing maintenance �
 
 ![Design](https://img.shields.io/badge/Design-0A66C2?style=flat-square)
 
-- Figma
+- Figma (UI/UX design)
 
 </td>
 <td valign="top" width="33%">
 
-![Build](https://img.shields.io/badge/Build-25D366?style=flat-square)
+![Development](https://img.shields.io/badge/Development-25D366?style=flat-square)
 
-- Claude
-- Codex
+- Claude AI (system design & coding)
+- OpenAI Codex (automation & backend logic)
+- Python / Flask
+- HTML / CSS / JavaScript
+- PostgreSQL
 
 </td>
 <td valign="top" width="33%">
 
-![Ideation](https://img.shields.io/badge/Ideation_%26_Voice-0A66C2?style=flat-square)
+![Productivity & Deployment](https://img.shields.io/badge/Productivity_%26_Deployment-0A66C2?style=flat-square)
 
-- Wispr
+- Wispr AI (voice-to-text ideation)
+- Git & GitHub (version control)
+- Vercel / Netlify
+- Domain setup & hosting
 
 </td>
 </tr>
 </table>
 
-*More tools added as my workflow evolves.*
-
 ---
 
-![Recent Work](https://img.shields.io/badge/Recent_Work-25D366?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Recent_Projects-25D366?style=for-the-badge)
 
-**[fabaphone.com](https://fabaphone.com)**
-Technical SEO overhaul and site fixes for a phone repair & sales business — improved discoverability and added a live receipt system.
+<table>
+<tr>
+<td valign="top" width="33%">
+
+![AndMart](https://img.shields.io/badge/🛒_AndMart_Rwanda-0A66C2?style=flat-square)
 
 **[andmart.store](https://andmart.store)**
-My own live e-commerce platform serving Kigali's electronics market, with MTN Mobile Money integration for real-time payments.
+E-commerce platform for product listing, ordering, and online business operations.
+
+</td>
+<td valign="top" width="33%">
+
+![Umucyo](https://img.shields.io/badge/🧾_Umucyo_Platform-25D366?style=flat-square)
 
 **[umucyo.andmart.store](https://umucyo.andmart.store)**
-A client business website built and deployed on AndMart's infrastructure — live and fully operational.
+Business system for structured product/service management.
 
-*More projects added as they go live.*
+</td>
+<td valign="top" width="33%">
+
+![FabaPhone](https://img.shields.io/badge/📱_FabaPhone-0A66C2?style=flat-square)
+
+**[fabaphone.com](https://fabaphone.com)**
+Business website built for product visibility and customer engagement.
+
+</td>
+</tr>
+</table>
+
+**Other Work:** 10+ client websites delivered · Business landing pages · Fast deployment web systems · Custom automation tools
 
 ---
 
-![Why Work With Me](https://img.shields.io/badge/Why_Work_With_Me-0A66C2?style=for-the-badge)
+![Why](https://img.shields.io/badge/Why_Work_With_Me-0A66C2?style=for-the-badge)
 
-- I deliver solutions, not just code
-- Fast turnaround using a modern, AI-augmented build process
-- End-to-end: design, build, deploy, and maintain
-- Every project is built for real use, not just a demo
+- I focus on real business results, not just code  
+- I deliver fast, clean, and functional systems  
+- I build with scalability in mind  
+- I communicate clearly and reliably  
+- I turn ideas into live products quickly  
 
 ---
 
-![Connect](https://img.shields.io/badge/Let's_Connect-25D366?style=for-the-badge)
+![Connect](https://img.shields.io/badge/Let's_Build_Your_Project-25D366?style=for-the-badge)
 
-![Location](https://img.shields.io/badge/🌍_Open_to_Remote_%26_On--site-Based_in_Kigali,_Rwanda-0A66C2?style=flat-square)
+![Location](https://img.shields.io/badge/🌍_Available_for-Freelance_%26_Remote_Projects-0A66C2?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-mvuyekure/)&nbsp;&nbsp;|&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?logo=whatsapp&logoColor=white)](https://wa.me/250791369687)&nbsp;&nbsp;|&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-mvuyekureandr%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mvuyekureandr@gmail.com)
