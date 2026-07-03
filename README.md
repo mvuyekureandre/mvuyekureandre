@@ -15,8 +15,8 @@ I help individuals, startups, and small businesses turn ideas into working digit
 I build fast, clean, and functional websites, e-commerce platforms, and automation tools that help businesses operate online and grow faster.
 
 **From idea → design → development → deployment → support.**
-
 ---
+<img width="1983" height="793" alt="process" src="https://github.com/user-attachments/assets/b6784db2-ebbe-4c95-a4cd-5364a724bd51" />
 
 ![Workflow](https://img.shields.io/badge/My_Workflow_%26_Tools-25D366?style=for-the-badge)
 
